@@ -1,0 +1,5 @@
+[SeagateSoftwareDataSource]
+; Everything after this line is a Seagate Software Connection initstring
+SBTPL1516
+
+Database DLL Name=pdsodbc.dll;Server Type=ODBC - SBTPL1516;Server=SBTPL1516;Datasource Type=SQL;Database=SBTPL1516;User Name=sa;
